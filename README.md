@@ -1,6 +1,8 @@
 # eps_tool - I AM NOT RESPONSIBLE IF YOU BRICK YOUR EPS!!! -cfranhonda
 ### Usage:
 
+Do not clone original repo. The eps_tool.py was updated and no longer works with 2017 Honda CRV. I have reverted to a prior working version.
+
 `Python3 eps_tool.py` with user.bin in same directory to generate patched rwd  
 `Python3 eps_tool.py -stock` with user.bin in same directory to generate stock rwd  
 
